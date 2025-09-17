@@ -1,0 +1,5 @@
+{
+  "name": "NEO APP",
+  "description": "A modern, minimalist, and fully responsive web application that functions as a searchable medical directory. The application provides detailed information about various medications.",
+  "requestFramePermissions": []
+}
